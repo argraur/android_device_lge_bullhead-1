@@ -16,4 +16,5 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_bullhead.mk \
-		$(LOCAL_DIR)/xenonhd.mk
+#   $(LOCAL_DIR)/xenonhd.mk \
+    $(LOCAL_DIR)/cos.mk

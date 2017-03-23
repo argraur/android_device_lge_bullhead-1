@@ -14,4 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo xenonhd_bullhead-userdebug
+#add_lunch_combo xenonhd_bullhead-userdebug
+add_lunch_combo cos_bullhead-user

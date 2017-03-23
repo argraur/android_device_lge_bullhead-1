@@ -3,10 +3,12 @@
     "repository": "TeamHorizon/android_kernel_lge_bullhead",
     "target_path": "kernel/lge/bullhead",
     "branch": "n"
+    "remote": "github"
   },
   {
     "repository": "TeamHorizon/vendor_lge",
     "target_path": "vendor/lge",
     "branch": "n-bullhead"
+    "remote": "github"
   }
 ]
