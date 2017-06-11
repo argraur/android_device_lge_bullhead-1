@@ -15,3 +15,4 @@
 #
 
 add_lunch_combo aosp_bullhead-userdebug
+add_lunch combo cos_bullhead-user

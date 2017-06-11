@@ -296,6 +296,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     audio_hal.period_size=192
 
+#EIS
+PRODUCT_PROPERTY_OVERRIDES +=  \
+    persist.camera.eis.enable=1
+
 PRODUCT_PROPERTY_OVERRIDES += \
     wifi.interface=wlan0 \
     wifi.supplicant_scan_interval=15

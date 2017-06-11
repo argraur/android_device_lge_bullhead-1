@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "PureNexusProject/android_kernel_lge_bullhead",
+    "target_path": "kernel/lge/bullhead",
+    "branch": "n-mr2"
+    "remote": "github"
+  },
+  {
+    "repository": "PureNexusProject/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "branch": "n-mr2"
+    "remote": "github"
+  }
+]
